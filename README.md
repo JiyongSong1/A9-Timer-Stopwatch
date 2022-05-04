@@ -10,6 +10,5 @@ Press button 1 on the board to start the timer.
 Press button 2 pause.
 
 Press button 3 to lap the current time. The lapped time can be displayed by pressing switch 1.
+
 Press button 4 to stop.
-
-
